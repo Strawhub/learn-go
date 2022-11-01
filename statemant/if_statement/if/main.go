@@ -1,3 +1,4 @@
+// 変数xを整数で割ったとき余りが0であれば出力
 package main
 
 import "fmt"
